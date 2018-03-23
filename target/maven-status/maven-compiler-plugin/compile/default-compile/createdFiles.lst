@@ -1,0 +1,7 @@
+com\concretepage\controller\BattleController.class
+com\concretepage\dao\BattleDAO.class
+com\concretepage\dao\IBattleDAO.class
+com\concretepage\MyApplication.class
+com\concretepage\service\BattleService.class
+com\concretepage\service\IBattleService.class
+com\concretepage\entity\Battles.class
