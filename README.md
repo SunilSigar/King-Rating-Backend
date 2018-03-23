@@ -6,4 +6,4 @@ Full Stack application which would calculate the rating and list kings based on 
 # Database
 Different houses of Westeros are fighting for the crown. Database contains details of all the battles which were fought between them. 
 # Frontend Project
-[a link](https://github.com/SunilSigar/King-Rating-Frontend)
+[Frontend Project](https://github.com/SunilSigar/King-Rating-Frontend)
